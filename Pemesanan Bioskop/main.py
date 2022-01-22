@@ -139,4 +139,4 @@ mainMenu()
 
 print("\nTerimakasih , Akhir dari program")
 print("Nama Project : Pemesanan Bioskop")
-print("by Kevien Ollyvei Jolanda")
+print("by Kepin17")
